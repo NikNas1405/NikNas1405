@@ -1,20 +1,22 @@
-[![MasterHead](https://thumbs.gfycat.com/DifficultLimpingBubblefish-size_restricted.gif)]
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)]
 <h1 align="center">Hi 👋, I'm Anastasiia</h1>
 <h3 align="center">A beginner frontend developer from Ukraine.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--jbblUf9N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/twxlvixc93j8vmm4zp53.gif">
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently learning **frontend basics with GoIT courses.**
-            
-            📫 How to reach me **nastyanikitina19@gmail.com**
 
-                       👨‍💻 All of my projects are available at [https://github.com/NikNas1405](https://github.com/NikNas1405)
+- 🌱 I’m currently learning **frontend basics with GoIT courses.**
 
-                                   ⚡ Fun fact **I think I am a funny person. But not everyone will understand my jokes.**
+- 📫 How to reach me **nastyanikitina19@gmail.com**
 
-<p align="right"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jbblUf9N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/twxlvixc93j8vmm4zp53.gif" alt="niknas1405" width="200"/> </p>
+- 👨‍💻 All of my projects are available at [https://github.com/NikNas1405](https://github.com/NikNas1405)
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **I think I am a funny person. But not everyone will understand my jokes.** 
+
+<h3 align="left">Connect with me:</h3> 
+
 <p align="left">
 <a href="https://linkedin.com/in/niknas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niknas" height="30" width="40" /></a>
 <a href="https://fb.com/nikitina1405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikitina1405" height="30" width="40" /></a>
